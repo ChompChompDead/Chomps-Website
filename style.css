@@ -1,0 +1,96 @@
+body{
+    height: 1950px;
+} 
+
+
+h1{
+    color: white;
+    font-family: 'Commissioner', sans-serif;
+}
+
+h2{
+    color: white;
+    font-family: 'Commissioner', sans-serif;
+}
+
+p{
+    color: white;
+    font-family: 'Commissioner', sans-serif; 
+}
+
+.titleDiv {
+    position: relative;
+    top: 50px;
+    background-color: #0084ff;
+    height: 300px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.titleParagraph {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    outline: none;
+    border: none;
+    font-size: inherit;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    font-family: 'Commissioner', sans-serif;
+    width: 250px;
+    height: 40px;
+}
+
+button:hover {
+    width: 300px;
+    height: 50px;
+}
+
+.ChompBot{
+    position: relative; 
+    right: 10px; 
+}
+
+.Discord{
+    position: relative; 
+    left: 10px; 
+}
+
+.pageBody{
+    background-color: #0084ff;
+    position: relative;
+    top: 100px; 
+    height: 1500px;
+}
+
+.pageBodyTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.SPED {
+    display: grid;
+    justify-content: center;
+}
+
+.Elemental_Defense {
+    display: grid;
+    justify-content: center;
+}
+
+
+
+
