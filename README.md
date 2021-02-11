@@ -1,2 +1,2 @@
 # Chomps Website
-Hey there! This is just my website. Nothing more to say.
+Hi there, this is my website repo. Sorry if i'm a bad web dev (because i dont code in html or css much)
